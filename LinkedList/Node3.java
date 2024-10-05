@@ -145,6 +145,7 @@ public class Node3 {
 			temp= temp.next;
 		}
 		System.out.println("}");
+		System.out.println("Hello Prachiiii:)");
 //		print(head);
 	}
 	}
